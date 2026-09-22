@@ -1,2 +1,3 @@
 In this project repositroy, i put into action all the beginner 
 information i learned about html. I learned how to make paragraphs, headlines, bold sentences ...
+I am also learning basic github innstructions !1
